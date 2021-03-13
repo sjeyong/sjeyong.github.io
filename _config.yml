@@ -13,7 +13,7 @@ navbar-links:
   Bio: "bio"
   Research: "research"
   Teaching: "teaching"
-  Blog: "/"
+  Blog: "blog"
 
 avatar: "/assets/img/uni.png"
 
