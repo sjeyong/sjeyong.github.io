@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Jeyong Sohn
-subtitle: College of Law and Politics | Rikkyo University
+title: Politics
+subtitle: 政治 Politik 정치 politique политика سياسة
 cover-img: /assets/img/front.jpg
 ---
 
