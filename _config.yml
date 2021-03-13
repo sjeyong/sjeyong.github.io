@@ -57,8 +57,8 @@ defaults:
       comments: true
       social-share: true
       show-share: true
-      show-subscribe: true
-      support_promo_box: true
+      show-subscribe: false
+      support_promo_box: false
       after-content: [share-section.html, purpleads.html, scroll-box.html]
   -
     scope:
@@ -69,8 +69,8 @@ defaults:
       comments: true
       social-share: true
       show-share: true
-      show-subscribe: true
-      support_promo_box: true
+      show-subscribe: false
+      support_promo_box: false
       after-content: [share-section.html, purpleads.html, scroll-box.html]
   -
     scope:
