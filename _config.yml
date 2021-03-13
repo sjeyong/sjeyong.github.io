@@ -56,7 +56,7 @@ defaults:
       carbonads: False
       comments: true
       social-share: true
-      show-share: true
+      show-share: false
       show-subscribe: false
       support_promo_box: false
       after-content: [share-section.html, scroll-box.html]
@@ -68,7 +68,7 @@ defaults:
       carbonads: false
       comments: true
       social-share: true
-      show-share: true
+      show-share: false
       show-subscribe: false
       support_promo_box: false
       after-content: [share-section.html, scroll-box.html]
