@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: Jeyong Sohn
 subtitle: 
 cover-img: /assets/img/front.jpg
 ---
