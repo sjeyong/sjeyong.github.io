@@ -83,8 +83,8 @@ defaults:
       path: ""
     values:
       layout: "page"
-      before-content: [support_promo_box.html, carbonads.html]
-      footer-extra: footer-subscribe.html
+      before-content: false
+      footer-extra: false
 
 exclude:
   - CHANGELOG.md
