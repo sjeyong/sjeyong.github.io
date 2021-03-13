@@ -53,25 +53,25 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      carbonads: true
+      carbonads: False
       comments: true
       social-share: true
       show-share: true
       show-subscribe: false
       support_promo_box: false
-      after-content: [share-section.html, purpleads.html, scroll-box.html]
+      after-content: [share-section.html, scroll-box.html]
   -
     scope:
       path: "notblog"
     values:
       layout: "post"
-      carbonads: true
+      carbonads: false
       comments: true
       social-share: true
       show-share: true
       show-subscribe: false
       support_promo_box: false
-      after-content: [share-section.html, purpleads.html, scroll-box.html]
+      after-content: [share-section.html, scroll-box.html]
   -
     scope:
       path: "pages"
